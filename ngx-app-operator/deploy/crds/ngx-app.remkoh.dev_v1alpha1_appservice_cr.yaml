@@ -1,0 +1,7 @@
+apiVersion: ngx-app.remkoh.dev/v1alpha1
+kind: AppService
+metadata:
+  name: my-ngxappservice
+spec:
+  # Add fields here
+  size: 3
